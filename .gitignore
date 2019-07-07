@@ -1,0 +1,5 @@
+vendor/
+._composer.phar
+composer.phar
+/nbproject/private/
+.env
